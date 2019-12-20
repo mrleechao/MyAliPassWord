@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11C4C4</color> <!-- 主色 --> <!-- 4C4C4C 814EEE 4A4A4A -->
+    <color name="colorPrimaryDark">#F6F6F6</color> <!-- 状态栏颜色 -->
+    <color name="colorAccent">#4A4A4A</color>  <!-- 辅助颜色 6681EA -->
+    <color name="colorText">#323232</color> <!-- 正文颜色 -->
+    <color name="colorBackground">#F6F6F6</color> <!-- 背景 -->
+    <color name="colorSubtitle">#666666</color> <!-- 小标题 -->
+    <color name="colorDividing">#AAAAAA</color> <!-- 分割线 -->
+    <color name="colorHint">#999999</color> <!-- 输入提示 -->
+    <color name="color_F9F9F9">#F9F9F9</color> <!-- 加载图片背景 -->
+
+    <color name="trackGradient">#888888</color>
+    <color name="color_00000000">#00000000</color>
+    <color name="color_80FFFFFF">#80FFFFFF</color>
+    <color name="color_B3FFFFFF">#E6FFFFFF</color>
+    <color name="color_80000000">#80000000</color>
+    <color name="color_88FFFFFF">#88FFFFFF</color>
+    <color name="color_00FF00FF">#00FF00FF</color>
+    <color name="color_FF6B09">#FF6B09</color>
+    <color name="color_E6E6E6">#E6E6E6</color>
+    <color name="color_EDEDED">#EDEDED</color>
+
+
+
+
+    <color name="color_26C6DA">#26C6DA</color> <!-- 主色 -->
+    <color name="color_6681EA">#6681EA</color> <!-- 辅助颜色 -->
+    <color name="color_2D2D2D">#2D2D2D</color> <!-- 文字 -->
+    <color name="color_FE7271">#FE7271</color> <!-- 辅助红 -->
+    <color name="color_A3000000">#A3000000</color> <!-- A3透明黑 -->
+    <color name="color_FE4737">#FE4737</color>
+    <color name="color_FFC729">#FFC729</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_000000">#000000</color>
+
+    <color name="color_814EEE">#814EEE</color>
+    <color name="color_B990FF">#B990FF</color>
+
+    <color name="color_5B5B5B">#5B5B5B</color>
+    <color name="color_474747">#474747</color>
+
+    <color name="color_8652D0">#8652D0</color>
+    <color name="color_5239B8">#5239B8</color>
+
+
+    <color name="navigationBarColor">#2196F3</color>
+    <color name="color_blue_1081ea">#1081ea</color>
+    <color name="color_activity_blue_bg">#389fff</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_white_alpha">#ccffffff</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="color_white_00ffffff">#00ffffff</color>
+    <color name="color_white_66ffffff">#66ffffff</color>
+    <color name="color_white_b3ffffff">#b3ffffff</color>
+    <color name="color_black_ff666666">#ff666666</color>
+    <color name="color_blue_0888ff">#0888ff</color>
+    <color name="color_blue_197BFF">#197BFF</color>
+    <color name="color_gray_d9d9d9">#d9d9d9</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_black_b3000000">#b3000000</color>
+    <color name="color_black_cc000000">#cc000000</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_black_ff999999">#ff999999</color>
+    <color name="color_black_999999">#999999</color>
+    <color name="color_grey_eaeaea">#eaeaea</color>
+    <color name="color_grey_555555">#555555</color>
+    <color name="color_grey_545454">#545454</color>
+    <color name="color_red_ccfa3c55">#ccfa3c55</color>
+    <color name="color_red_FF6161">#FF6161</color>
+    <color name="color_split_line_d9d9d9">#d9d9d9</color>
+    <color name="grey_white_has_alpha">#66FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="split_line_grey_color_d9d9d9">#D9D9D9</color>
+    <color name="input_panel_text_color_757572">#757572</color>
+    <color name="color_gray_666666">#666666</color>
+    <color name="color_gray_f0f0f0">#f0f0f0</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+    <color name="color_blue_238efa">#238efa</color>
+    <color name="color_background">#ECF1F5</color>
+    <color name="color_gray_bfc2c5">#bfc2c5</color>
+    <color name="color_red_ff4055">#ff4055</color>
+    <color name="grayf9">#f9f9f9</color>
+    <color name="gray_gb">#dddddd</color>
+    <color name="grayc4">#c4c4c4</color>
+    <color name="graye3">#e3e7ee</color>
+    <color name="alipay">#00a5ff</color>
+    <color name="gray_e5">#e5e5e5</color>
+
+    <color name="black_alpha_5">#1a000000</color>
+    <color name="yellow_alpha_100">#FF9806</color>
+    <color name="dark_gray">#FF2c2c2c</color>
+</resources>
