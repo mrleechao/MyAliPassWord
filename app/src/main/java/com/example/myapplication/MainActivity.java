@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onPayClose() {
                         dialog.dismiss();
+                        Toast.makeText(MainActivity.this, "关闭回调", Toast.LENGTH_SHORT).show();
                         //关闭回调
                     }
                     @Override
